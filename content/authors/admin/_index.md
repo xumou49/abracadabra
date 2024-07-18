@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Leo Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Lee-oh Shoo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Leo
+last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇸🇬
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,130 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Backend Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Cargobase
+    url: https://www.cargobase.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:leoxu495@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+#  - icon: brands/x
+#    url: https://twitter.com/GetResearchDev
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/xumou49
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/leo-xu-917698160/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
 
 interests:
+  - Software Engineering
+  - Quantitative Finance
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Master of Science in Quantitative Finance
+    institution: National University of Singapore
+    date_start: 2024-08-01
+    date_end: 2026-05-01
+#    summary: |
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
+  - area: Bachelor of Technology in Software Engineering
+    institution: National University of Singapore
+    date_start: 2020-08-01
+    date_end: 2024-07-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: Diploma in Infocomm Security Management
+    institution: Republic Poly
+    date_start: 2015-08-01
+    date_end: 2018-07-01
+#    summary: |
+#      GPA: 3.8/4.0
+#
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#  - area: BSc Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    date_start: 2016-01-01
+#    date_end: 2020-12-31
+#    summary: |
+#      GPA: 3.4/4.0
+#      
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Backend Software Engineer
+    company_name: Cargobase
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Tech stack: 
+        - Python, Django, Mysql, Restful API, Aws, Docker.
+      - Design, develop and test features from inception to rollout.
+      - Write high-quality code to enhance company’s APIs
+      - Define API requirements and align the vision with the product team and other developers.
+      - Actively participate in design decisions to keep platform future proof
+      - Peer review, refactor and optimize the existing client-side codebase
   - position: Backend Software Engineer
+    company_name: Unravel Carbon
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2023-09-01
+    summary: |
+      - Tech stack: 
+        - Python, Flask, MongoDB, GraphQL, Aws S3 and lambda.
+      - Designed and implemented a range of new features, including supplier data request, data input, user invitation and management, and company profile functionalities.
+      - Implemented climate program module to provide solutions to reduce emissions based on their emissions report and goal settings.
+      - Implemented packaging module to scale across multiple customer profiles and serve different customer needs.
+      - Optimized data aggregation process by implementing advanced MongoDB aggregation, resulting in a 50% reduction in speed for generating analytical charts.
+      - Integrated OneSchema for data uploads into our product, empowering customers to efficiently upload, validate data during the onboarding process.
+      - Improved system performance and reliability through code refactoring, enhancing communication between the backend server, data engine, and frontend.
+      - Developed a structured and Python-friendly approach to building and managing MongoDB aggregation pipelines, streamlining data processing workflows.
+  - position: Automation Software Engineer
     company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-03-01
+    date_end: 2022-05-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed end-to-end automation framework, collaborating with cross-functional stakeholders, to optimize business processes.
+      - Led the process of gathering and analyzing requirements, ensuring clear communication with various stakeholders and resulting in detailed documentation.
+      - Designed detailed project plans and workflows, which included process mapping, risk management, and process improvements, to guarantee smooth project completion.
+      - Managed project pipeline for on-time delivery, aligning efforts with strategic goals.
+      - Developed, quality assured, and maintained business processes using UiPath/Python, enhancing operational efficiency.
+      - Deployed automation solutions, providing user guidance and comprehensive manuals to ensure successful user adoption.
+  - position: Automation Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-02-01
+    date_end: 2021-03-01
+    summary: |
+      - Partnered with key clients, such as Bank of China and Shiseido, to capitalize on automation potential, elevating operational efficiency.
+      - Drafted detailed workflow documents for effective technical evaluations and smooth automation rollouts.
+      - Executed end-to-end project management, encompassing process analysis, development, testing, troubleshooting, and user training, ensuring seamless project delivery and adoption.
+      - Responded adeptly to change requests for existing processes, delivering prompt and effective solutions that aligned processes with evolving business requirements.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -145,9 +183,7 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +219,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leo Xu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
