@@ -121,7 +121,7 @@ work:
       - Improved system performance and reliability through code refactoring, enhancing communication between the backend server, data engine, and frontend.
       - Developed a structured and Python-friendly approach to building and managing MongoDB aggregation pipelines, streamlining data processing workflows.
   - position: Automation Software Engineer
-    company_name: X
+    company_name: Grab
     company_url: ''
     company_logo: ''
     date_start: 2021-03-01
@@ -134,7 +134,7 @@ work:
       - Developed, quality assured, and maintained business processes using UiPath/Python, enhancing operational efficiency.
       - Deployed automation solutions, providing user guidance and comprehensive manuals to ensure successful user adoption.
   - position: Automation Software Engineer
-    company_name: X
+    company_name: Inventivo
     company_url: ''
     company_logo: ''
     date_start: 2020-02-01
