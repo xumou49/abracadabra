@@ -7,7 +7,7 @@
     <description>Leo Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu2ef0764d5d68e5a3929143662b021178_5272_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu24d6089e9849b7f19d174cf1b5960f75_43161_512x512_fill_lanczos_center_3.png</url>
       <title>Leo Blog</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -270,7 +270,7 @@
 
 
 
-&lt;div id=&#34;chart-857426319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-196278435&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +288,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-857426319&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-196278435&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -708,6 +708,91 @@ data.head()
     &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt; Python&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn Math</title>
+      <link>http://localhost:1313/teaching/math/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/math/</guid>
+      <description>&lt;h2 id=&#34;polynomial-and-rational-functions&#34;&gt;Polynomial and Rational Functions&lt;/h2&gt;
+&lt;h3 id=&#34;polynomial-functions&#34;&gt;Polynomial Functions&lt;/h3&gt;
+&lt;p&gt;A &lt;strong&gt;polynomial function&lt;/strong&gt; is a function that can be expressed in the form:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$f(x) = a_{n}x^n + a_{n-1}x^n-1 + \dots + a_{2}x^2 + a_{1}x + a_{0}$&lt;/li&gt;
+&lt;li&gt;where:
+&lt;ul&gt;
+&lt;li&gt;$a_{n}, a_{n-1}, \dots, a_{2}, a_{1}, a_{0}$ are constants (called coefficients)&lt;/li&gt;
+&lt;li&gt;$n$ is a non-negative integer (called the degree of the polynomial)&lt;/li&gt;
+&lt;li&gt;$x$ is the variable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Examples of polynomial functions:
+&lt;ul&gt;
+&lt;li&gt;$f(x) = 3x^4 - 2x^3 + 5x - 1$&lt;/li&gt;
+&lt;li&gt;$g(x) = x^2 + 4x +7$&lt;/li&gt;
+&lt;li&gt;$h(x) = 6$ (This is a constant polynomial, which is a polynomial of degree 0)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rational-functions&#34;&gt;Rational Functions&lt;/h3&gt;
+&lt;p&gt;A &lt;strong&gt;rational function&lt;/strong&gt; is a function that can be expressed as the ratio of two polynomial functions. The general form of a rational function is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$f(x) = \frac{P(x)}{Q(x)}$&lt;/li&gt;
+&lt;li&gt;where:
+&lt;ul&gt;
+&lt;li&gt;$P(x)$ and $Q(x)$ are polynomial functions&lt;/li&gt;
+&lt;li&gt;$Q(x) \neq 0$ to ensure the function is defined&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Example of rational functions:
+&lt;ul&gt;
+&lt;li&gt;$f(x) = \frac{2x^2 + 4x + 2}{5x^2 - 6x - 2}$&lt;/li&gt;
+&lt;li&gt;$g(x) = \frac{x^3 - 1}{x-1}$&lt;/li&gt;
+&lt;li&gt;$h(x) = \frac{1}{x}$ (This is a simple rational function)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-differences&#34;&gt;Key Differences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Polynomial Functions&lt;/strong&gt;: Defined for all real numbers. They are continuous everywhere&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rational Functions&lt;/strong&gt;: Defined for all real numbers except where denominator $Q(x)$ is 0. They are continuous everywhere except at the points where the denominator is 0.&lt;/li&gt;
+&lt;li&gt;Continuity:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Polynomial Functions&lt;/strong&gt;: Continuous everywhere. There are no breaks, jumps, or holes in their graphs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rational Functions&lt;/strong&gt;: Continuous everywhere except where the denominator $Q(x)$ is zero. At these points, the function has vertical asymptotes or holes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;derivative-and-slopegradient-of-the-tangent-line-to-a-graph&#34;&gt;Derivative and slope(gradient) of the tangent line to a graph&lt;/h2&gt;
+&lt;h3 id=&#34;the-tangent-line-and-its-slope&#34;&gt;The tangent line and its slope&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Tangent Line&lt;/strong&gt;: A tangent line to a curve at a given point is a straight line that just touches the curve at that point. It doesn&amp;rsquo;t cross the curve at that point and represents the &amp;ldquo;instantaneous direction&amp;rdquo; of the curve&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slope(Gradient) of the Tangent Line&lt;/strong&gt;: The slope of the tangent line at a given point on the curve measures how steep the curve is at that point. It tells us the rate at which the function&amp;rsquo;s value is changing with respect to changes in the input value(x)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;derivative-and-slope&#34;&gt;Derivative and slope&lt;/h3&gt;
+&lt;p&gt;The derivative of a function at a specific point gives us the slope of the tangent line to the graph of the function at that point. Here&amp;rsquo;s how:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Derivative Definition&lt;/strong&gt;: The derivative of a function $f(x)$ at a point $x=a$ is defined as: $f\prime(a) = \lim_{ h\to 0 } \frac{f(a+h) - f(a)}{h}$&lt;/li&gt;
+&lt;li&gt;This formula essentially calculates the slope of the secant line between two points $(a, f(a))$ and $(a+h, f(a+h))$ as h (the horizontal distance between the points) gets smaller and smaller, approaching zero.&lt;/li&gt;
+&lt;li&gt;As $h$ approaches zero, the secant line becomes closer to the tangent line at the point $(a, f(a))$&lt;/li&gt;
+&lt;li&gt;The limit of the slopes of these secant lines is the slope of the tangent line at x$x=a$, which is the derivative $f\prime(a)$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;visualizing-the-concept&#34;&gt;Visualizing the concept&lt;/h3&gt;
+&lt;p&gt;Imagine you have a curve representing a function $f(X)$. At a specific point $x=a$:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Draw a very small interval around $x=a$&lt;/li&gt;
+&lt;li&gt;Calculate the slope of the line connecting the points just before and just after $x=a$. This is the slope of the secant line.&lt;/li&gt;
+&lt;li&gt;As you make this interval smaller and smaller, the secant line becomes closer to the tangent line.&lt;/li&gt;
+&lt;li&gt;When the interval is infinitesimally small, the slope of the secant line approaches the slope of the tangent line.&lt;/li&gt;
+&lt;li&gt;This slope of the tangent line at $x=a$ is the derivative $f\prime(a)$&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The derivative $f\prime(a)$ of a function $f(x)$ at a point $x=a$ is the slope of the tangent line to the graph of $f(x)$ at that point&lt;/li&gt;
+&lt;li&gt;This slope tells you how steep the graph is at $x=a$ and represents the rate of change of the function&amp;rsquo;s value with respect to changes $x$&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -144,10 +144,10 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Tech Stacks
     items:
-      - name: Python
-        description: ''
+      - name: Programming
+        description: 'Python, Java, Javascript, C++'
         percent: 80
         icon: code-bracket
       - name: Data Science
@@ -163,7 +163,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
+        description: 'Went to Bromo and Ijen, planning to go Kinabalu'
         percent: 60
         icon: person-simple-walk
       - name: Cats

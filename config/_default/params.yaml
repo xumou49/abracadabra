@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "Leo"
+#    show_translations: true
 
 # Site footer
 footer:
@@ -58,3 +59,7 @@ features:
     enable: true
   privacy_pack:
     enable: true
+  feedback:
+    responses:
+      positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new)'
+      negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
