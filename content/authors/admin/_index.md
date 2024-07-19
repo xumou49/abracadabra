@@ -66,10 +66,6 @@ education:
     date_start: 2020-08-01
     date_end: 2024-07-01
 
-  - area: Diploma in Infocomm Security Management
-    institution: Republic Poly
-    date_start: 2015-08-01
-    date_end: 2018-07-01
 #    summary: |
 #      GPA: 3.8/4.0
 #
@@ -219,4 +215,4 @@ awards:
 
 ## About Me
 
-Leo Xu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led successful side projects, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.
