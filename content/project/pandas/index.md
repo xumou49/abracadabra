@@ -1,13 +1,12 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Trillio
+date: 2024-02-01
+external_link: https://trillio-app.vercel.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Web3
+#  - Wowchemy
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Personalized crypto cards, bridging WEB3 to everyday transactions, and unlocking exclusive rewards
 
 <!--more-->

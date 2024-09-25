@@ -49,7 +49,7 @@ profiles:
 interests:
   - Software Engineering
   - Quantitative Finance
-  - Artificial Intelligence
+  - Web 3 
 
 education:
   - area: Master of Science in Quantitative Finance
@@ -148,15 +148,15 @@ skills:
     items:
       - name: Programming
         description: 'Python, Java, Javascript, C++'
-        percent: 80
+        percent: 85
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Database
+        description: 'SQL, NoSql'
+        percent: 80
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Framework
+        description: 'Flask, Django, Springboot'
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -164,15 +164,15 @@ skills:
     items:
       - name: Hiking
         description: 'Went to Bromo and Ijen, planning to go Kinabalu'
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        percent: 80
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 90
         icon: camera
 
 languages:
@@ -215,4 +215,4 @@ awards:
 
 ## About Me
 
-Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led successful side projects, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.
+Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led successful side projects in Web3, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.

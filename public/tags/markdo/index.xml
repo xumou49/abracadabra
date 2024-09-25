@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdo | Leo Blog</title>
+    <link>http://localhost:1313/tags/markdo/</link>
+      <atom:link href="http://localhost:1313/tags/markdo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu24d6089e9849b7f19d174cf1b5960f75_43161_512x512_fill_lanczos_center_3.png</url>
+      <title>Markdo</title>
+      <link>http://localhost:1313/tags/markdo/</link>
+    </image>
+    
+    <item>
+      <title>Trillio</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible1 and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>http://localhost:1313/teaching/</link>
       <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Teaching</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu24d6089e9849b7f19d174cf1b5960f75_43161_512x512_fill_lanczos_center_3.png</url>
       <title>Teaching</title>
       <link>http://localhost:1313/teaching/</link>
     </image>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/teaching/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Learn JavaScript</title>

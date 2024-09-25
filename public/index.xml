@@ -42,6 +42,14 @@
     </item>
     
     <item>
+      <title>Trillio</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Personalized crypto cards, bridging WEB3 to everyday transactions, and unlocking exclusive rewards&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
@@ -128,26 +136,48 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
+      <title>Lopy</title>
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;product-requirement&#34;&gt;Product Requirement&lt;/h2&gt;
+&lt;p&gt;User Environment:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Customers:
+&lt;ul&gt;
+&lt;li&gt;In-restaurant environment with stable internet access.&lt;/li&gt;
+&lt;li&gt;Various devices including smartphones and tablets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Restaurant Staff:
+o	Backend system accessible via tablets, smartphones, or desktop computers.
+o	Environment with stable internet connectivity and access to kitchen and dining areas.
+Target Users:
+•	Restaurant Customers:
+o	Tech-savvy individuals who prefer digital solutions for convenience.
+o	Customers who value quick service, minimal wait times and track order statuses.
+•	Restaurant Staff:
+o	Waiters and chefs can interact with the system.
+o	Restaurant manager who needs to manage orders, update menu items.
+Summary of User Painpoints to Goals:
+•	Customers:
+o	Easy access to the restaurant menu via QR code scanning.
+o	Ability to place orders quickly without waiting for a waiter.
+o	Secure and swift payment options.
+o	Real-time updates on order status and food preparation.
+•	Restaurant Staff:
+o	Efficient order management system.
+o	Real-time updates on customer orders and preparation status.
+o	Tools to update menu items and prices dynamically.
+o	Analytics and reports on sales and customer preferences.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>http://localhost:1313/teaching/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>http://localhost:1313/teaching/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
@@ -270,7 +300,7 @@
 
 
 
-&lt;div id=&#34;chart-196278435&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-547283169&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -288,7 +318,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-196278435&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-547283169&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
