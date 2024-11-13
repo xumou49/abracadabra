@@ -140,37 +140,34 @@
       <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;h2 id=&#34;product-requirement&#34;&gt;Product Requirement&lt;/h2&gt;
-&lt;p&gt;User Environment:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Customers:
-&lt;ul&gt;
-&lt;li&gt;In-restaurant environment with stable internet access.&lt;/li&gt;
-&lt;li&gt;Various devices including smartphones and tablets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Restaurant Staff:
-o	Backend system accessible via tablets, smartphones, or desktop computers.
-o	Environment with stable internet connectivity and access to kitchen and dining areas.
-Target Users:
-•	Restaurant Customers:
-o	Tech-savvy individuals who prefer digital solutions for convenience.
-o	Customers who value quick service, minimal wait times and track order statuses.
-•	Restaurant Staff:
-o	Waiters and chefs can interact with the system.
-o	Restaurant manager who needs to manage orders, update menu items.
-Summary of User Painpoints to Goals:
-•	Customers:
-o	Easy access to the restaurant menu via QR code scanning.
-o	Ability to place orders quickly without waiting for a waiter.
-o	Secure and swift payment options.
-o	Real-time updates on order status and food preparation.
-•	Restaurant Staff:
-o	Efficient order management system.
-o	Real-time updates on customer orders and preparation status.
-o	Tools to update menu items and prices dynamically.
-o	Analytics and reports on sales and customer preferences.&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test Image&#34; srcset=&#34;
+               /project/pytorch/images/lopy-wireframe_hu49b481aadb9ad17538126984b3a769c4_134919_9e8d5712c61a217559c8747ebc7b2d4a.webp 400w,
+               /project/pytorch/images/lopy-wireframe_hu49b481aadb9ad17538126984b3a769c4_134919_bbf467f6b0f22e4b8a5ce731f16dac37.webp 760w,
+               /project/pytorch/images/lopy-wireframe_hu49b481aadb9ad17538126984b3a769c4_134919_1200x1200_fit_q80_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/pytorch/images/lopy-wireframe_hu49b481aadb9ad17538126984b3a769c4_134919_9e8d5712c61a217559c8747ebc7b2d4a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;705&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -300,7 +297,7 @@ o	Analytics and reports on sales and customer preferences.&lt;/li&gt;
 
 
 
-&lt;div id=&#34;chart-547283169&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-147536829&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -318,7 +315,7 @@ o	Analytics and reports on sales and customer preferences.&lt;/li&gt;
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-547283169&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-147536829&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

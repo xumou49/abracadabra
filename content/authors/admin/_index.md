@@ -55,7 +55,7 @@ education:
   - area: Master of Science in Quantitative Finance
     institution: National University of Singapore
     date_start: 2024-08-01
-    date_end: 2026-05-01
+#    date_end: 2026-05-01
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
@@ -90,16 +90,18 @@ work:
     company_name: Cargobase
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-11-01
     date_end: ''
     summary: |2-
-      - Tech stack: 
-        - Python, Django, Mysql, Restful API, Aws, Docker.
-      - Design, develop and test features from inception to rollout.
-      - Write high-quality code to enhance company’s APIs
-      - Define API requirements and align the vision with the product team and other developers.
-      - Actively participate in design decisions to keep platform future proof
-      - Peer review, refactor and optimize the existing client-side codebase
+      - **Tech stack**: 
+        - Python, Django, Mysql, Restful API, Aws, Docker, Redis, Javascript.
+      - **Streamlined Endpoints for Product V2:** Refactored and streamlined backend endpoints to ensure compatibility with the product V2, enhancing system efficiency and frontend interaction.
+      - **Core Module Development for TMS Shift:** Developed key modules, including File Import, Guest Invite, Invoice Form, and Order Consolidation, establishing essential functionality to support the product’s strategic shift toward a Transportation Management System (TMS)
+      - **Improved Git Flow for Code Consistency:** Refined a more effective Git flow that allowed for smoother merges, preventing code divergences between branches and quicker issue resolution, resulting in a ~20% reduction in code conflicts.
+      - **Build Project Architecture:** Designed a low-coupling, high-cohesion project structure, facilitating easy feature scaling, reducing code complexity, and lowering maintenance costs.
+      - **Real-Time Shipment Tracking Integration:** Integrated transportation visibility service provider(Portcast) for real-time geolocation tracking, increasing user engagement and customer satisfaction with live shipment updates.
+      - **Accelerated Deployment Pipeline:** Reduced pipeline deployment time by ~30 to 50%, accelerating development cycles and deployment speed, boosting productivity.
+      - **Enhanced Data Retrieval with Redis:** Integrated Redis as a caching layer within our product, enhancing data retrieval speed and reducing load on primary databases to support faster, more responsive user interactions.
   - position: Backend Software Engineer
     company_name: Unravel Carbon
     company_url: ''
@@ -107,15 +109,14 @@ work:
     date_start: 2022-05-01
     date_end: 2023-09-01
     summary: |
-      - Tech stack: 
+      - **Tech stack**: 
         - Python, Flask, MongoDB, GraphQL, Aws S3 and lambda.
-      - Designed and implemented a range of new features, including supplier data request, data input, user invitation and management, and company profile functionalities.
-      - Implemented climate program module to provide solutions to reduce emissions based on their emissions report and goal settings.
-      - Implemented packaging module to scale across multiple customer profiles and serve different customer needs.
-      - Optimized data aggregation process by implementing advanced MongoDB aggregation, resulting in a 50% reduction in speed for generating analytical charts.
-      - Integrated OneSchema for data uploads into our product, empowering customers to efficiently upload, validate data during the onboarding process.
-      - Improved system performance and reliability through code refactoring, enhancing communication between the backend server, data engine, and frontend.
-      - Developed a structured and Python-friendly approach to building and managing MongoDB aggregation pipelines, streamlining data processing workflows.
+      - **Data-Centric Feature Development:** Designed and implemented data-centric functionalities, including supplier data requests, data input, user invitation and management, and company profile, enabling more granular data management and user insights.
+      - **Climate Program for Sustainability Goals:** Implemented climate program module that enables customers to leverage emissions reports and set targets, providing data-backed insights for a 15% increase in engagement with sustainability goals.
+      - **Optimized Data Processing Efficiency:** Reduced data processing times by 50% with optimized MongoDB aggregation, accelerating analytical chart generation and improving real-time reporting capabilities.
+      - **Data Onboarding with OneSchema Integration:** Integrated OneSchema for seamless data uploads, improving validation accuracy by 30% and reducing onboarding times by 40%, enhancing data quality and user satisfaction.
+      - **Enhanced Backend-Frontend Communication:** Improved backend and data engine communication with the frontend, reducing latency by 35% and increasing system uptime by 20%, resulting in more reliable data flows.
+      - **Efficient MongoDB Pipeline Management:** Designed a Python-friendly framework for managing MongoDB aggregation pipelines, reducing pipeline build time by 25% and enhancing data workflow efficiency.
   - position: Automation Software Engineer
     company_name: Grab
     company_url: ''
@@ -123,12 +124,12 @@ work:
     date_start: 2021-03-01
     date_end: 2022-05-01
     summary: |
-      - Designed end-to-end automation framework, collaborating with cross-functional stakeholders, to optimize business processes.
-      - Led the process of gathering and analyzing requirements, ensuring clear communication with various stakeholders and resulting in detailed documentation.
-      - Designed detailed project plans and workflows, which included process mapping, risk management, and process improvements, to guarantee smooth project completion.
-      - Managed project pipeline for on-time delivery, aligning efforts with strategic goals.
-      - Developed, quality assured, and maintained business processes using UiPath/Python, enhancing operational efficiency.
-      - Deployed automation solutions, providing user guidance and comprehensive manuals to ensure successful user adoption.
+      - **Designed End-to-End Automation Framework**: Collaborated with cross-functional teams to automate critical business processes, increasing efficiency and reducing manual workload.
+      - **Requirements Gathering and Documentation**: Led the requirements analysis process, aligning with stakeholders to produce clear, actionable documentation for each automation project.
+      - **Project Planning and Workflow Design**: Developed comprehensive project plans, including process mapping, risk assessment, and improvement strategies, ensuring streamlined project execution.
+      - **Managed Project Pipeline**: Oversaw automation projects from inception to deployment, aligning timelines with strategic objectives and consistently meeting deadlines.
+      - **Process Development and Quality Assurance**: Developed, tested, and maintained automated business processes, achieving measurable improvements in operational efficiency.
+      - **Deployment and User Adoption**: Successfully deployed automation solutions, providing user training and detailed manuals to support adoption and maximize solution impact.
   - position: Automation Software Engineer
     company_name: Inventivo
     company_url: ''
@@ -136,10 +137,11 @@ work:
     date_start: 2020-02-01
     date_end: 2021-03-01
     summary: |
-      - Partnered with key clients, such as Bank of China and Shiseido, to capitalize on automation potential, elevating operational efficiency.
-      - Drafted detailed workflow documents for effective technical evaluations and smooth automation rollouts.
-      - Executed end-to-end project management, encompassing process analysis, development, testing, troubleshooting, and user training, ensuring seamless project delivery and adoption.
-      - Responded adeptly to change requests for existing processes, delivering prompt and effective solutions that aligned processes with evolving business requirements.
+      - **Client Partnership for Automation Impact**: Collaborated with major clients, including Bank of China and Shiseido, to identify automation opportunities, enhancing operational efficiency and streamlining key workflows.
+      - **Documentation and Workflow Design**: Created comprehensive workflow documents to support technical assessments and facilitate smooth automation implementation.
+      - **Full-Cycle Project Management**: Managed the complete automation lifecycle, from process analysis and development to testing, troubleshooting, and user training, ensuring seamless delivery and high adoption rates.
+      - **Responsive Process Optimization**: Proactively addressed change requests, delivering timely updates that aligned existing automations with evolving business needs, maximizing process relevance and value.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -186,33 +188,49 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Trillio Platform
+    url: https://trillio-app.vercel.app/
+#    date: '2024-03-25'
+    awarder: Lead
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      - Stack:
+        - Project management
+            - Jira, Confluence
+        - Product design
+            - Figma
+        - Front-end
+            - Javascript, React
+        - Back-end
+            - Java springboot, Mysql, Golang, Solidity smart contracts, metamasks.
+        - Devops
+            - Github, Aws, Docker 
+      - **Ideated and Developed Crypto Card Platform:** Conceptualized Trillio, a platform that empowers users to spend digital assets securely while enjoying credit card benefits like rewards, cashbacks, and offers.
+      - **Led the Team:** Found a team of 7 across design, development, and marketing, fostering collaboration and driving the project from concept to implementation.
+      - **End-to-End Product Development:** Guided the entire product lifecycle, from idea generation to execution, including shaping product outlines, creating user personas, and defining core features to align with user needs.
+      - **User-Centric Design:** Designed the user experience to prioritize security, usability, and rewards for crypto users, effectively bridging digital assets with traditional credit card conveniences.
+      - **Technical Documentation and Planning:** Authored comprehensive technical documentation, outlining platform architecture, feature requirements, to support scalable and flexible operations.
+
+#  - title: Blockchain Fundamentals
+#    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+#    date: '2023-07-01'
+#    awarder: edX
+#    icon: edx
+#    summary: |
+#      Learned:
+#      - Synthesize your own blockchain solutions
+#      - Gain an in-depth understanding of the specific mechanics of Bitcoin
+#      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+#  - title: 'Object-Oriented Programming in R'
+#    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+#    certificate_url: https://www.datacamp.com
+#    date: '2023-01-21'
+#    awarder: datacamp
+#    icon: datacamp
+#    summary: |
+#      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led successful side projects in Web3, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.
+Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led interesting side projects in Web3, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.
