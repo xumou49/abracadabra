@@ -35,7 +35,7 @@ sections:
       title: '📚 My Interests'
       subtitle: ''
       text: |-
-        I’m passionate about software engineering, quantitative finance, and web3, with a vision to bridge these fields through innovative and impactful solutions. I explore how technology, data, and finance intersect, aiming to shape products that empower users in the evolving digital economy.
+        I’m passionate about software engineering, quantitative finance, data science,and web3, with a vision to bridge these fields through innovative and impactful solutions. I explore how technology, data, and finance intersect, aiming to shape products that empower users in the evolving digital economy.
         
         I dive into topics that include algorithmic trading, decentralized finance, and the architecture of resilient, scalable systems. I’m always excited to connect with like-minded people—let’s collaborate!😃
     design:

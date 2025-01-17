@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Leo Xu
+title: Lucas Xu
 
 # Name pronunciation (optional)
-name_pronunciation: Lee-oh Shoo
+name_pronunciation: Loo-kuhs Shoo
 
 # Full name (for SEO)
-first_name: Leo
+first_name: Lucas
 last_name: Xu
 
 # Status emoji
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:leoxu495@gmail.com'
+    url: 'mailto:xubowen495@gmail.com'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/xumou49
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/leo-xu-917698160/
+    url: https://www.linkedin.com/in/lucas-xu-917698160/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
@@ -49,6 +49,7 @@ profiles:
 interests:
   - Software Engineering
   - Quantitative Finance
+  - Data Science
   - Web 3 
 
 education:
@@ -233,4 +234,4 @@ awards:
 
 ## About Me
 
-Leo Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led interesting side projects in Web3, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.
+Lucas Xu is a seasoned software engineer specializing in backend systems. He has contributed to both environmental and logistics related projects. He has also led interesting side projects in Web3, showcasing his leadership and technical acumen. He holds and is passionate about leveraging technology to solve complex problems and drive innovation.

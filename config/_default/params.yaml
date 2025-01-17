@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Leo Blog'
+    description: 'Lucas Blog'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -35,7 +35,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Leo"
+      text: "Lucas"
 #    show_translations: true
 
 # Site footer
